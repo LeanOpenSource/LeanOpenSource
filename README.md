@@ -8,3 +8,9 @@ Everyone is welcome to the Lean Open Source community who strongly believes in o
 
 Please drop us an email for any feedback or input you have to tell us:
 leanopensource@gmail.com
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+1) piimarker - https://github.com/LeanOpenSource/piimarker 
+
+In the world of data privacy concerns increase and terms like "Privacy by design" are more important than ever before. The following library helps you to mark any potential PII (Personal Identifiable Information) in your dataset.
