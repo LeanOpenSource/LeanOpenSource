@@ -6,7 +6,7 @@ Applying the lean principles to the open source space while focussing on the gre
 
 Everyone is welcome to the Lean Open Source community who strongly believes in our core values and respects our code of conduct. We meet weekly on Mondays to discuss our latest findings and ideas. 
 
-Please drop us an email for any feedback or input you have to tell us:
+Please drop us an email for any feedback or input you have:
 leanopensource@gmail.com
 
 ---------------------------------------------------------------------------------------------------------------------------------
